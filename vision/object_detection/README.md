@@ -1,5 +1,7 @@
 # README #
 
+This is part of the tools for vision detection, I mainly reference Brandon's object detection from Boston University Robotic lab.
+
 Computer Vision - Object detection, learning, and recognition software by Brandon Sookraj.
 
 ## What is this repository for? ##
