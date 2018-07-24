@@ -1,0 +1,19 @@
+<package>
+  <description brief="object_detection">
+
+     object_detection
+
+  </description>
+  <author>Pi</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/object_detection</url>
+  <depend package="sensor_msgs"/>
+  <depend package="cv_bridge"/>
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+  <depend package="opencv3"/>
+
+</package>
+
+
