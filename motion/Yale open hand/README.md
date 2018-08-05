@@ -11,4 +11,5 @@ Although the hand project did a good job and some teams have already add it to b
 ### Design Options
 
 There are three design options which are Flexure-Flexure(FF), Pivot-Flexure(PF) and Pivot-Pivot(PP). All of them use SDM to generate a rubber layer to increase surface friction and for FF and PF it is also used to connect the finger parts.  
+![alt text](https://github.com/zhouyuan7/Baxter-project-3/blob/master/motion/gif/Finger.png)
 
