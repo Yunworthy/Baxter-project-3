@@ -2,5 +2,5 @@
 
 ## Introduction
 
-I use Yale OpenHand Project as my Baxter customized replacement for the default gripper. For Model T, it can do a more advanced grab action due its adaptive finger and a floating pully tree transmission mecanism. More information can be found in its web
+I use Yale OpenHand Project as my Baxter customized replacement for the default gripper. For Model T, it can do a more advanced grab action due its adaptive finger and a floating pully tree transmission mecanism. More information can be found in its web site [Github](https://www.eng.yale.edu/grablab/openhand/) 
 
