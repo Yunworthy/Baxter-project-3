@@ -21,6 +21,9 @@ Yale OpenHand Project provides all CAD .stl files to do 3D printing, but the ass
 
 #### Pivot hole tolerance issue
 
+I'm not sure whether this is a printer issue or a design issue, but the result is the default finger assembly tolerance is too tight and the finger can't close properly.
+
+
 #### Fish line hole issue
 
 #### Print pose issue
