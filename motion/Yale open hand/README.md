@@ -31,4 +31,4 @@ The default design use drill press to make the tiny fish line hole. I found out 
 
 Some of the parts' important surfaces may 'floating' in default printing pose and will make the quality of these surfaces very bad so be careful when you choose the printing pose.
 
-All in all, Yale OpenHand Peoject did a great job and I was very impressed by its floating pully tree transmission mechanism. However, this is my first time using 3D printing so it was not a easy job, but I do learn a lot from 3D printing skill and CAD drawing. 
+All in all, Yale OpenHand Peoject did a great job and I was very impressed by its floating pully tree transmission mechanism. However, this is my first time using 3D printing so it was not an easy job, but I do learn a lot from 3D printing skill and CAD drawing. 
