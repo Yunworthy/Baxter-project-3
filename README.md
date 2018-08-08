@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/zhouyuan7/Baxter-project-3/blob/master/source/baxter_cover.jpg)
 
+![alt text](https://github.com/zhouyuan7/Baxter-project-3/blob/master/source/baxter_vision0.jpg)
+
 ## Introduction
 This is my third Baxter project. The propose of this project is use KinectV2 sensor and Yale OpenHand T1 hand to replace the Baxter defauThis is my third Baxter project. The propose of this project is use KinectV2 sensor and Yale OpenHand T1 hand to replace the Baxter default arm camera and gripper to do an object detection and localization using machine learning technique and KinectV2 sensor point cloud then control the Baxter limb and customized hand to grab the object.
 
