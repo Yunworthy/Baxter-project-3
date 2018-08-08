@@ -7,7 +7,7 @@
 ## Introduction
 This is my third Baxter project. The propose of this project is use KinectV2 sensor and Yale OpenHand T1 hand to replace the Baxter defauThis is my third Baxter project. The propose of this project is use KinectV2 sensor and Yale OpenHand T1 hand to replace the Baxter default arm camera and gripper to do an object detection and localization using machine learning technique and KinectV2 sensor point cloud then control the Baxter limb and customized hand to grab the object.
 
-Through this project I did a full engineering train in Robotic area from hardware calibration, CAD drawing, 3D printing setting, sensor&motor driver setting and coding using python&C++ with ROS. Although the project itself isn’t a research project and techniques I used are all popular and mature, this is a great experience to deeply feel the whole process of a typical robotic project and master some state-of-art techniques in robotic area.
+Through this project I did a full engineering train in Robotic area from hardware calibration, CAD drawing, 3D printing setting, sensor&motor driver setting and coding using python&C++ with ROS. Although the project itself isn’t a research project and techniques I used are all popular and mature, this is a great experience to deeply feel the whole process of a typical robotic project and master some state-of-the-art techniques in robotic area.
 
 This project can also be classified into a visual servoing control method. Compared with my previous Baxter projects, this can also be divided into vision and motion subparts, but in both two parts the complexity is much higher than last two projects.
 
