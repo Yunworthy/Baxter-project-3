@@ -4,6 +4,8 @@ This is part of the tools for vision detection, I mainly reference Brandon's obj
 
 The detection process is done inside the RGB frame. It gives the target box pixel coordinate. Using this coordinate, we map it to the relative point cloud frame to get the target mean coordinate.  
 
+![alt text](https://github.com/zhouyuan7/Baxter-project-3/blob/master/source/detector_printscreen.png)
+
 ## RGB resolution issue
 
 The Kinect v2 driver provides three type of resolution which are sd, qhd and hd. Due to the limitation of my computer graphic card, I first choose the qhd resolution, but it looks like that the detector doesn’t fit with that high resolution and the performance is very poor, so I finally choose the sd.  
