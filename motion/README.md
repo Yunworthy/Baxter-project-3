@@ -15,7 +15,7 @@ Although the hand project did a good job and some teams have already add it to b
 There are three design options which are Flexure-Flexure(FF), Pivot-Flexure(PF) and Pivot-Pivot(PP). All of them use SDM to generate a rubber layer to increase surface friction and for FF and PF it is also used to connect the finger parts.  
 ![alt text](https://github.com/zhouyuan7/Baxter-project-3/blob/master/motion/gif/Finger.png)
 
-In this project, I choose PP structure without SDM layer in order to simplify the building process. I have to admitted that without SDM layer the hand's grabing ability is lower but it still works well enough.
+In this project, I choose both PP and ff structure. For pp structure, in order to simplify the building process, I redisgn the friction layer without rubber layer. I have to admitted that without SDM layer the hand's grabing ability is lower and I highly recommand to add rubber layer.
 
 ### CAD&Assembly modification
 
