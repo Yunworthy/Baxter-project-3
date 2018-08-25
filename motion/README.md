@@ -1,6 +1,11 @@
 # Introduction and part modification
 
 ![Output sample](https://github.com/zhouyuan7/Baxter-project-3/blob/master/source/hand.gif)
+Performance of Pivot-Pivot finger without rubber layer.
+
+![Output sample](https://github.com/zhouyuan7/Baxter-project-3/blob/master/source/finger_ff.gif)
+Performance of Flexure-Flexure finger.
+
 
 ## Introduction
 
