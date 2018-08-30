@@ -24,7 +24,7 @@ In this project, I choose both PP and ff structure. For pp structure, in order t
 
 ### CAD&Assembly modification
 
-Yale OpenHand Project provides all CAD .stl files to do 3D printing, but the assembly process do suprise me and I have to modify some of the CAD to make the hand work properly.
+Yale OpenHand Project provides all CAD .stl files to do 3D printing, but the assembly process suprises me and I have to modify some of the CAD to make the hand work properly.
 
 #### Pivot hole tolerance issue
 
@@ -32,7 +32,7 @@ I'm not sure whether this is a printer issue or a design issue, but the result i
 
 #### Fish line hole issue
 
-The default design use drill press to make the tiny fish line hole. I found out that the 3D printer in our lab can make these holes during the printing process, so I modify the CAD to add the hole inside them.
+The default design use drill press to make tiny fish line holes. I found out that the 3D printer in our lab can make these holes during the printing process, so I modify the CAD to add the hole inside them.
 
 #### Print pose issue
 
