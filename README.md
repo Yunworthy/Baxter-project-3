@@ -6,7 +6,9 @@
 
 ## Introduction
 
-![Output sample](https://github.com/zhouyuan7/Baxter-project-3/blob/master/source/baxter_video_final.gif)
+<p align="center">
+<img src="https://github.com/zhouyuan7/Baxter-project-3/blob/master/source/baxter_video_final.gif"/>
+</p>
 
 This is my third Baxter project. The propose of this project is using KinectV2 sensor and Yale OpenHand T1 hand to replace the Baxter default arm camera and gripper to do an object detection, localization and grabing. In detail, use machine learning technique and KinectV2 sensor point cloud to get the mean target translation inside Baxter coordinate system, then control the Baxter limb and customized hand to grab the object.
 
@@ -14,9 +16,12 @@ Through this project I did a full engineering train in Robotic area from hardwar
 
 This project can be classified into a visual servoing control method. Compared with my previous Baxter projects, this can also be divided into vision and motion subparts, but in both two parts the complexity is much higher than last two projects.
 
-![Output sample](https://github.com/zhouyuan7/Baxter-project-3/blob/master/source/baxter_31.gif)
-
-![Output sample](https://github.com/zhouyuan7/Baxter-project-3/blob/master/source/baxter_30.gif)
+<p align="center">
+<img src="https://github.com/zhouyuan7/Baxter-project-3/blob/master/source/baxter_31.gif"/>
+</p>
+<p align="center">
+<img src="https://github.com/zhouyuan7/Baxter-project-3/blob/master/source/baxter_30.gif"/>
+</p>
 
 
 ## Vison
