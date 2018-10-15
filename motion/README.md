@@ -16,7 +16,7 @@ Performance of Flexure-Flexure finger
 
 ## Introduction
 
-I use Yale OpenHand Project as my Baxter customized replacement for the default gripper. For Model T, it can do a more advanced grab action due its adaptive finger and a floating pully tree transmission mechanism. More information can be found in its web site [Yale OpenHand Project](https://www.eng.yale.edu/grablab/openhand/).
+I use Yale OpenHand Project as my Baxter customized replacement for the default gripper. For Model T, it can do a more advanced grab action due to its adaptive finger and a floating pully tree transmission mechanism. More information can be found on its website [Yale OpenHand Project](https://www.eng.yale.edu/grablab/openhand/).
 
 ## Modification
 
@@ -47,7 +47,7 @@ Some of the parts' important surfaces may 'floating' in default printing pose an
 
 #### Tie the knot issue
 
-The transmission in all three hand modules are using fish line. In this kind of system, the stability of the knot is very crucial. The lossing of the knot is unacceptable. I try my best to fix this issue but the stretching of the line is still a open question. The stretching phenomenon weaken the range of hand finger movement, so impair the total performance.
+The transmission in all three hand modules are using fish line. In this kind of system, the stability of the knot is very crucial. The loosing of the knot is unacceptable. I try my best to fix this issue but the stretching of the line is still a open question. The stretching phenomenon weaken the range of hand finger movement, so impair the total performance.
 
 ### Motor controll
 
