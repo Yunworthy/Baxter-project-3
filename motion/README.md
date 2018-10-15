@@ -49,6 +49,12 @@ Some of the parts' important surfaces may 'floating' in default printing pose an
 
 The transmission in all three hand modules are using fish line. In this kind of system, the stability of the knot is very crucial. The lossing of the knot is unacceptable. I try my best to fix this issue but the stretching of the line is still a open question. The stretching phenomenon weaken the range of hand finger movement, so impair the total performance.
 
+### Motor controll
+
+All three models use DYNAMIXEL MX-64T servo actuator [MX-64T](https://www.trossenrobotics.com/p/mx-64t-dynamixel-robot-actuator.aspx). To control it, I recommend to use [U2D2](http://www.robotis.us/u2d2/) which is a small size USB communication converter that enables to control and operator DYNAMIXEL with PC. 
+U2D2 does not supply the power to the motor, so a separate power supply is needed and I recommend SMPS2 Dynamixel Adapter [SMPS2 Dynamixel Adapter](https://www.trossenrobotics.com/store/p/5886-SMPS2Dynamixel-Adapter.aspx).
+
+The motor can be controlled in ROS, and there is a package called [dynamixel_controllers](http://wiki.ros.org/dynamixel_controllers)
+
+
 All in all, Yale OpenHand Peoject did a great job and I was very impressed by its floating pully tree transmission mechanism. However, this is my first time using 3D printing so it was not an easy job, but I do learn a lot from 3D printing skill and CAD drawing.
-
-
